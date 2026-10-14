@@ -1,0 +1,12 @@
+{
+    "makefile.configureOnOpen": false,
+    "cSpell.words": [
+        "buildah",
+        "certguard",
+        "collectstatic",
+        "Containerfile",
+        "Containerfiles",
+        "noinput",
+        "pulpcore"
+    ]
+}
