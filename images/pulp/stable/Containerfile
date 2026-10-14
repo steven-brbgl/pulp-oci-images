@@ -32,6 +32,7 @@ RUN uv pip install --upgrade \
   pulp-rpm${PULP_RPM_VERSION} \
   pulp-npm${PULP_NPM_VERSION} \
   pulp-hugging-face${PULP_HUGGING_FACE_VERSION} \
+  git+https://github.com/PhillipDiCarlo/pulp_nuget@main \
   -r /requirements.extra.txt \
   -c /constraints.txt && \
   rm -rf /root/.cache/uv
