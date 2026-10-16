@@ -14,13 +14,12 @@ Note that OCI stands for "Open Container Initiative", see [here](https://opencon
 
 See the [quickstart guide for deploying](https://pulpproject.org/pulp-oci-images/docs/admin/tutorials/quickstart/).
 
-
 ## Available Images
 
 | Name | Description |
 | ---- | ----------- |
 | pulp | Multi-Process Pulp with several plugins |
-| pulp-minimal | Single-Process Pulp with several plugins
+| pulp-minimal | Single-Process Pulp with several plugins |
 | pulp-web | Webserver for pulp-minimal |
 
 ## First-Party Services
